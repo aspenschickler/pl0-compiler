@@ -1,0 +1,11 @@
+Line	OP	R	L	M
+0	jmp	0	0	1
+1	inc	0	0	6
+2	lit	0	0	5
+3	neg	0	0	0
+4	lit	1	0	2
+5	add	0	1	0
+6	sto	0	0	4
+7	lod	0	0	4
+8	sio	0	0	1
+9	sio	0	0	3

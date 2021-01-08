@@ -1,0 +1,5 @@
+var a, b;
+begin
+  a := -5 + 2;
+  write a;
+end.
